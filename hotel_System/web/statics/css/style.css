@@ -1,0 +1,120 @@
+@charset "UTF-8";  /*设置css文件的语言类型*/
+
+div{
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#title{
+   color: aqua;
+    font-size: larger;
+    text-align: center;
+}
+
+.msg_cont {
+    background: none repeat scroll 0 0 #fff6d2;
+    border: 1px solid #ffe57d;
+    color: #666;
+    height: 18px;
+    line-height: 18px;
+    padding: 3px 10px 3px 40px;
+    position: relative;
+    border: none;
+}
+
+.tit{
+    height: 30px;
+}
+
+.tit .errorMsg {
+    color: red;
+    font-size: larger;
+    text-align: left;
+}
+
+h1{
+    color: darkorange;
+    text-align: center;
+}
+
+.LoginAndRegist{
+    color: black;
+    font-size: large;
+}
+
+#header{
+    color: brown;
+    font-size: medium;
+}
+
+.title_word{
+    font-size: 6px;
+    float: left;
+}
+
+#main{
+    height: 500px;
+    width: 1200px;
+    border: 1px red solid;
+}
+
+#main_header{
+    height: 90%;
+    width: 100%;
+
+}
+
+.hotel_list{
+    height: 300px;
+    width: 350px;
+    margin:20px;
+    float: left;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border: 1px #e3e3e3 solid;
+}
+
+.img_hotel{
+    height: 250px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.hotel_img_place{
+    height: 200px;
+    width: 250px;
+}
+
+.hotel_information{
+    text-align: center;
+}
+
+#footer{
+  height: 500px;
+    width: 1500px;
+}
+
+
+#header_hotelListManager{
+    height: 82px;
+    width: 1200px;
+}
+
+.wel_word_hotelListManager{
+    font-size: 60px;
+    float: left;
+}
+
+#main_hotelListManager{
+    height: 460px;
+    width: 1200px;
+    border: 1px black solid;
+    overflow: auto;
+}
+
+#main_hotelListManager table{
+    margin: auto;
+    margin-top: 80px;
+    border-collapse: collapse;
+}
+
